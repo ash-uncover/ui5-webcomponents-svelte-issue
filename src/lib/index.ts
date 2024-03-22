@@ -1,2 +1,2 @@
 // Reexport your entry components here
-export WardDevTools from './WardDevTools.svelte';
+export Main from './Main.svelte';
